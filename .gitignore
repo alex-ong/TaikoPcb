@@ -1,0 +1,24 @@
+# KiCad temporary and backup files
+*.bak
+*.bck
+*.tmp
+*-backups/
+_autosave-*
+
+# Exported outputs
+*.pdf
+*.step
+*.stp
+*.svg
+*.png
+*.csv
+*.xml
+*.net
+*.pos
+*.zip
+*.map
+
+# Simulation & cache
+*.cache.lib
+fp-info-cache
+/TaikoPcb-backups/
