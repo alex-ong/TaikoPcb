@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32-s3-supermini")(type "KiCad")(uri "${KIPRJMOD}/esp32-s3-supermini/esp32-s3-supermini.kicad_sym")(options "")(descr ""))
+  (lib (name "DB107-G_CIP")(type "KiCad")(uri "${KIPRJMOD}/DB107-G/DB107-G_CIP.kicad_sym")(options "")(descr ""))
+)
