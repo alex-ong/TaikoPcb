@@ -2142,7 +2142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 82.042 101.6 90)
 			(effects
 				(font
@@ -2212,7 +2212,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 141.732 101.6 90)
 			(effects
 				(font
@@ -2281,7 +2281,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DB107-G_CIP"
+		(property "Footprint" "DB107-G:DB107-G_CIP"
 			(at 86.36 67.31 0)
 			(effects
 				(font
@@ -2416,22 +2416,23 @@
 		(fields_autoplaced yes)
 		(uuid "63018721-b44f-4ba9-8f1e-9f2435057fc1")
 		(property "Reference" "U1"
-			(at 171.704 88.9 0)
+			(at 171.704 92.964 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 171.704 91.44 0)
+		(property "Value" "ESP32-S3-Supermini"
+			(at 171.704 95.504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "esp32-s3-supermini:esp32-s3-supermini"
 			(at 181.61 116.84 0)
 			(effects
 				(font
@@ -2687,7 +2688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DB107-G_CIP"
+		(property "Footprint" "DB107-G:DB107-G_CIP"
 			(at 146.05 67.31 0)
 			(effects
 				(font
@@ -2765,7 +2766,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 112.522 124.46 90)
 			(effects
 				(font
@@ -2834,7 +2835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 54.102 101.6 90)
 			(effects
 				(font
@@ -2904,7 +2905,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 82.042 124.46 90)
 			(effects
 				(font
@@ -2973,7 +2974,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DB107-G_CIP"
+		(property "Footprint" "DB107-G:DB107-G_CIP"
 			(at 116.84 67.31 0)
 			(effects
 				(font
@@ -3050,7 +3051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DB107-G_CIP"
+		(property "Footprint" "DB107-G:DB107-G_CIP"
 			(at 58.42 67.31 0)
 			(effects
 				(font
@@ -3128,7 +3129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 141.732 124.46 90)
 			(effects
 				(font
@@ -3337,7 +3338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal"
 			(at 206.7052 105.41 0)
 			(effects
 				(font
@@ -3404,7 +3405,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 215.138 113.03 90)
 			(effects
 				(font
@@ -3474,7 +3475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 112.522 101.6 90)
 			(effects
 				(font
@@ -3543,7 +3544,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 54.102 124.46 90)
 			(effects
 				(font
