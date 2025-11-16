@@ -7194,23 +7194,23 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "JLCJLCJLCJLC"
-		(at 172.5 44.5 270)
+	(gr_text "ESP32\nS3\nSuperMini"
+		(at 166 72.5 0)
 		(layer "B.SilkS")
-		(uuid "84c76170-063b-4f8f-8305-4bdd3e4e08bf")
+		(uuid "c91974e8-4002-4d0e-8c98-cd4148fbb7c9")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.2)
 				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify bottom mirror)
 		)
 	)
-	(gr_text "ESP32\nS3\nSuperMini"
-		(at 166 72.5 0)
+	(gr_text "v1.0"
+		(at 166.2 76.5 0)
 		(layer "B.SilkS")
-		(uuid "c91974e8-4002-4d0e-8c98-cd4148fbb7c9")
+		(uuid "e0058e14-f3fe-4b17-8ddc-793c8c13f904")
 		(effects
 			(font
 				(size 1 1)
