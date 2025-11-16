@@ -10,7 +10,6 @@ _autosave-*
 *.step
 *.stp
 *.svg
-*.png
 *.csv
 *.xml
 *.net
