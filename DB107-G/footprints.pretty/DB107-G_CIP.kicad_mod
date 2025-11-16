@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "DB107-G ")
 	(property "Reference" "REF**"
-		(at 4.25 2.6 0)
+		(at 4.25 2.54 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "519223f6-3983-41a4-9f21-d313cfd88c28")
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "DB107-G_CIP"
-		(at 4.25 2.6 0)
+		(at 4.25 8.636 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "3090cc97-cc57-493b-9ce0-76013770afb0")
@@ -472,20 +472,10 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
-		)
-	)
-	(fp_text user "*"
-		(at 0 -1.4224 0)
-		(layer "F.SilkS")
-		(uuid "83aba0dd-9e95-4249-9cfa-e85136159e4a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
 		)
 	)
 	(fp_text user "~"
@@ -496,7 +486,8 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -509,21 +500,10 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
-		)
-	)
-	(fp_text user "*"
-		(at 0 -1.4224 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "c4f20794-cd0e-4864-9891-5f38b7958ceb")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
 		)
 	)
 	(fp_text user "-"
@@ -534,39 +514,17 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
 	)
 	(fp_text user "${REFERENCE}"
-		(at 4.25 2.6 0)
+		(at 4.318 -3.81 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "752e2cc8-c57c-403f-a995-20961c8549b0")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at 1.2528 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "afb0c9a6-fb9c-4a63-ad63-f7e0cea738d7")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at 1.2528 0 0)
-		(layer "F.Fab")
-		(uuid "c2f7cf8a-06a3-4aba-8c17-281a140484bb")
 		(effects
 			(font
 				(size 1 1)
